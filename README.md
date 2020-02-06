@@ -1,2 +1,1 @@
-# ContainerNavigator
-Source for the MineBot plugin "ContainerNavigator"
+***The plugin is still in development***
