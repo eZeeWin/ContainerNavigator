@@ -1,0 +1,7 @@
+﻿The MineBot API part of the plugin
+
+Does the following:
+1) Shows the GUI
+2) Manages Settings
+3) Runs the plugin on bots
+4) Manages MineBot events
